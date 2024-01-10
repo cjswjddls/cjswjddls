@@ -1,6 +1,5 @@
 안녕하세요!
 
-<img src="https://img.shields.io/badge/JAVA-#6DB33F?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **cjswjddls/cjswjddls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
