@@ -2,7 +2,7 @@
 꾸준히 성장하는 개발자 천정인입니다.<br>
 
 ### Skills
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/jsp-004027?style=for-the-badge&logo=jameson&logoColor=white">
